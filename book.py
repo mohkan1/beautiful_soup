@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 
+print("Loading...")
+
 class GroupRoomBooker:
 
     def __init__(self):
