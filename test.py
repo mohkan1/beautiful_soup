@@ -44,7 +44,7 @@ class groupRoom:
         return result
 
 account = groupRoom()
-account.login("kanjom", "Atad11399!")
+account.login("kanjom", "*****")
 account.get_rooms()
 
 
